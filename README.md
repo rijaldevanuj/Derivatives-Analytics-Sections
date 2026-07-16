@@ -5,13 +5,13 @@ with the core toolkit of a **futures/derivatives analyst**: technical analysis,
 options pricing & Greeks, futures basis (contango/backwardation), and
 risk/capital-preservation metrics.
 
-Built as a portfolio project targeting trainee/analyst/intern roles in
+Built as a predictive Modelling Project using Random Forest And Gradient Boosting for
 international derivatives markets (equities, index futures, commodities, FX,
 rates).
 
 ## Why this project, and how it maps to the job description
 
-| JD requirement | Where it shows up in the app |
+| Features Provided | Where it shows up in the app |
 |---|---|
 | Fundamental, technical, statistical analysis | Technical Analysis tab: SMA/EMA, RSI, MACD, Bollinger Bands, Stochastic, ATR — all implemented from first principles |
 | Derivatives, futures, exchange mechanics | Futures & Basis tab: cost-of-carry model, contango/backwardation classification, cross-asset correlation across 8 major futures |
