@@ -1,4 +1,4 @@
-# Derivatives Analytics Platform
+# Market Derivatives Prediction & Analytics Platform
 
 An interactive Streamlit app that blends **machine learning price forecasting**
 with the core toolkit of a **futures/derivatives analyst**: technical analysis,
